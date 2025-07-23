@@ -33,6 +33,7 @@ jobs:
           # - configuration: 'Release'
           #   platform: 'x86'
           #   vsversion: 2022
+          
     steps:
 
       # - name: Setup SSH
