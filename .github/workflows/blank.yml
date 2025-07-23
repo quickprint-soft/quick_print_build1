@@ -30,9 +30,9 @@ jobs:
           - configuration: 'Release'
             platform: 'x64'
             vsversion: 2022
-          - configuration: 'Release'
-            platform: 'x86'
-            vsversion: 2022
+          # - configuration: 'Release'
+          #   platform: 'x86'
+          #   vsversion: 2022
     steps:
 
       # - name: Setup SSH
